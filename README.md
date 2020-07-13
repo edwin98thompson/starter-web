@@ -13,3 +13,5 @@ more text
 ## Hoow to
 
 ##deployment
+
+copyright tings 
