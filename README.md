@@ -15,4 +15,4 @@ fork the repsoitory issue pull request
 
 ##deployment
 
-copyright tings 
+copyright tings. all rigjts reserved 
