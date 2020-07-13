@@ -1,9 +1,9 @@
 #starter Web Project
 
  this is a simple webite proj, add line for rebase example
-, then more changes from mydfeature branch 2
+, updating
 ##Intro
-
+updating for emergency fix after saths
 thois is a simple intro thing
 
 ##Purpose
