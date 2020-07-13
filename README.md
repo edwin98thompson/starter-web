@@ -11,6 +11,7 @@ thois is a simple intro thing
 more text
 
 ## Hoow to
+fork the repsoitory issue pull request 
 
 ##deployment
 
