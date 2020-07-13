@@ -10,6 +10,6 @@
 leave a review here
 
 # TECHNOLOGY COLOPHON
-
+	GIT
     HTML5, CSS3
     jQuery, Modernizr
